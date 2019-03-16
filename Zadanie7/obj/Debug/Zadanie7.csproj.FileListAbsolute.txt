@@ -1,0 +1,14 @@
+C:\Users\Buczuuu\source\repos\Zadanie7\Zadanie7\bin\Debug\Zadanie7.exe.config
+C:\Users\Buczuuu\source\repos\Zadanie7\Zadanie7\bin\Debug\Zadanie7.exe
+C:\Users\Buczuuu\source\repos\Zadanie7\Zadanie7\bin\Debug\Zadanie7.pdb
+C:\Users\Buczuuu\source\repos\Zadanie7\Zadanie7\obj\Debug\Zadanie7.csprojResolveAssemblyReference.cache
+C:\Users\Buczuuu\source\repos\Zadanie7\Zadanie7\obj\Debug\Zadanie7.csproj.CoreCompileInputs.cache
+C:\Users\Buczuuu\source\repos\Zadanie7\Zadanie7\obj\Debug\Zadanie7.exe
+C:\Users\Buczuuu\source\repos\Zadanie7\Zadanie7\obj\Debug\Zadanie7.pdb
+C:\Users\Laptop\Desktop\Zadanie7\Zadanie7\bin\Debug\Zadanie7.exe.config
+C:\Users\Laptop\Desktop\Zadanie7\Zadanie7\bin\Debug\Zadanie7.exe
+C:\Users\Laptop\Desktop\Zadanie7\Zadanie7\bin\Debug\Zadanie7.pdb
+C:\Users\Laptop\Desktop\Zadanie7\Zadanie7\obj\Debug\Zadanie7.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\Zadanie7\Zadanie7\obj\Debug\Zadanie7.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Zadanie7\Zadanie7\obj\Debug\Zadanie7.exe
+C:\Users\Laptop\Desktop\Zadanie7\Zadanie7\obj\Debug\Zadanie7.pdb
